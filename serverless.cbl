@@ -1,0 +1,10 @@
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. SERVERLESSCOBOL.
+       ENVIRONMENT DIVISION.
+       DATA DIVISION.
+       PROCEDURE DIVISION.
+           DISPLAY "寝ているのだ".
+           DISPLAY "ごろんとしているのだ".
+           DISPLAY "みんなの幸せを願ってるのだ".
+           DISPLAY "どうしていいのか分からないので怒鳴ってみたのだ".
+           DISPLAY "立っているのだ".
