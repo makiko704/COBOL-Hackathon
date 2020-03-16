@@ -1,0 +1,36 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "ねぇコボルおじさん",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "QuestionIntent",
+          "slots": [],
+          "samples": [
+            "おじさん何してるの",
+            "ぼーっとしてるの",
+            "何してるの"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "7"
+}
